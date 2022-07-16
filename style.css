@@ -43,13 +43,11 @@ span {
 }
 
 .snake {
-  border: 3px solid #000;
   border-radius: 50%;
   background: rgb(9, 71, 141);
 }
 
 .food {
-  border: 3px solid #000;
   border-radius: 50%;
   background: crimson;
 }
