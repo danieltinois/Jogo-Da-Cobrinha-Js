@@ -1,5 +1,5 @@
 <h1>Snake-game</h1>
-<h4>Link live demo: <a href="https://danieltinois.github.io/Jogo-Da-Cobrinha-Js/" target="_blank" rel="noopener noreferrer">link</a></h4>
+<h4>Live demo: <a href="https://danieltinois.github.io/Jogo-Da-Cobrinha-Js/" target="_blank" rel="noopener noreferrer">link</a></h4>
 <p>Fiz o famoso jogo da Snake-game com score FUNCIONAL em JavaScript, html e css.<br>
 O codigo é para iniciantes se inspirarem e fazerem a partir do seu gosto.
 <br>(Obs:O jogo não abrirá em mobile.)</p>
