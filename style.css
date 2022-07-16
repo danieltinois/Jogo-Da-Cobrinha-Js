@@ -38,8 +38,8 @@ span {
   height: 700px;
 
   display: grid;
-  grid-template-rows: repeat(21, auto);
-  grid-template-columns: repeat(21, auto);
+  grid-template-rows: repeat(15, auto);
+  grid-template-columns: repeat(15, auto);
 }
 
 .snake {
